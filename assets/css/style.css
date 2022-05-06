@@ -10,6 +10,18 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+.c_gray {
+    color: rgb(150, 142, 142);
+}
+
+.cursor_point {
+    cursor: pointer;
+}
+
+.text_center {
+    text-align: center;
+}
+
 .container-default {
     width: 70%;
     margin: 0 auto;
@@ -24,6 +36,14 @@ body {
     padding-bottom: 10px;
 }
 
+.d_flex {
+    display: flex;
+}
+
+.align_center {
+    align-items: center;
+}
+
 .flexBetween {
     display: flex;
     justify-content: space-between;
@@ -33,7 +53,6 @@ body {
 .flexRow {
     display: flex;
     flex-direction: row;
-    align-items: center;
 }
 
 .reset-list {
@@ -60,13 +79,57 @@ body {
     margin-top: 10px;
 }
 
+.m_t_20 {
+    margin-top: 20px;
+}
+
 .m_b_70 {
     margin-bottom: 70px;
 }
 
-.vertical_bottom {
-    vertical-align: bottom;
+.p_t_50 {
+    padding-top: 50px;
 }
+
+.vertical_bottom {
+    vertical-align: middle;
+}
+
+.col_2_margin {
+    width: calc((100% / 2)-15px);
+}
+
+.w_100 {
+    width: 100%;
+}
+
+.h_100_vh {
+    height: 100vh;
+}
+
+.flexCol {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.padding_btn {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.fs_1 {
+    font-size: 0.9em;
+}
+
+
+
+.bg_blue {
+    background-color: rgb(80, 80, 216);
+}
+
 
 #divider {
     border: 1px solid gray;
@@ -76,3 +139,19 @@ body {
     padding-top: 20px;
     padding-bottom: 20px;
 }
+
+li {
+    padding-bottom: 11.5px;
+    margin-bottom: -11.5px
+}
+
+li:hover {
+    border-bottom: 3px solid inset blue;
+    
+}
+
+/* .d-flex {
+    display: -ms-flexbox!important;
+    display: flex!important;
+    flex-wrap: nowrap!important;
+} */
