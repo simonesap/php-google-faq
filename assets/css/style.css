@@ -99,6 +99,15 @@ body {
     width: calc((100% / 2)-15px);
 }
 
+.overFlow {
+    overflow-y: auto;
+}
+
+.m_y_3 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
 .w_100 {
     width: 100%;
 }
@@ -133,6 +142,7 @@ body {
 
 #divider {
     border: 1px solid gray;
+    background-color: gray;
 }
 
 #questionAnswer {

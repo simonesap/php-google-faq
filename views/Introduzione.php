@@ -100,31 +100,6 @@
 ?>
 
 
-
-<?php
-
-$request = $_SERVER['REQUEST_URI'];
-
-switch ($request) {
-    case '/' :
-        require __DIR__ . '/views/Introduzione.php';
-        break;
-    case '' :
-        require __DIR__ . '/views/Introduzione.php';
-        break;
-    case '/Introduzione' :
-        require __DIR__ . '/views/Introduzione.php';
-        break;
-    case '/Introduzione' :
-        require __DIR__ . '/views/Introduzione.php';
-        break;
-    case '/normeSullaPrivacy' :
-        require __DIR__ . '/views/normeSullaPrivacy.php';
-        break;
-};
-?>
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>

@@ -142,20 +142,20 @@
     <main class="h_100_vh">
 
         <div class="row d-flex flex-col" style="">
-                <div class="col-1 m-3" style="width: calc(100% / 3);">
-                    <p>
-                        Pubblicità
-                        In che modo Google utilizza i cookie
-                        In che modo Google utilizza il riconoscimento di pattern
-                        Modalità di trattamento delle informazioni sulla posizione da parte di Google
-                        In che modo Google utilizza i numeri delle carte di credito per i pagamenti
-                        Come funziona Google Voice
-                        Guida alla privacy nei prodotti Google
-                        Modalità di conservazione dei dati raccolti da Google
+                <div class="col-2 m-3 mt-4">
+                    <p class="m-2 overFlow">
+                        <p class="m-4">Pubblicità</p>
+                        <p class="m-4">In che modo Google utilizza i cookie</p>
+                        <p class="m-4">In che modo Google utilizza il riconoscimento di pattern</p>
+                        <p class="m-4"> Modalità di trattamento delle informazioni sulla posizione da parte di Google</p>
+                        <p class="m-4">In che modo Google utilizza i numeri delle carte di credito per i pagamenti</p>
+                        <p class="m-4">Come funziona Google Voice</p>
+                        <p class="m-4">Guida alla privacy nei prodotti Google</p>
+                        <p class="m-4">Modalità di conservazione dei dati raccolti da Google</p>
                     </p>
                 </div>
-                <div class="col-11 m-3" style="width: calc(100% / 4);">
-                    <p>
+                <div class="col-7 m_y_3 mt-5" >
+                    <p class="m-2 overFlow">
                         TECNOLOGIE
                         Noi di Google perseguiamo idee e prodotti che spesso superano i limiti dell’attuale tecnologia. 
                         Siamo una società che agisce responsabilmente, pertanto lavoriamo con impegno per conciliare l’innovazione 

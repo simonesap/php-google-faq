@@ -140,6 +140,9 @@
     <div class="c_gray" id="divider"></div>
 
     <main class="container-default">
+        <h1 class="m_20 text_center">
+                Termini di servizio
+        </h1>
         
             <p class="m_20 text_center">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio numquam asperiores omnis, 
